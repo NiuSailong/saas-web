@@ -3,7 +3,7 @@ import routes from './config/routes'
 
 export default defineConfig({
   title: '',
-  base: '/',
+  base: '/saas/',
   publicPath: '/',
   proxy: {},
   routes,
